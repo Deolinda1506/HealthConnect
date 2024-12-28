@@ -73,7 +73,7 @@ MIDDLEWARE = [
 
 CORS_ALLOWED_ORIGINS = [
     "http://localhost:5173",
-    "http://127.0.0.1:5173",
+    "http://10.0.1.158:5173/",
     "https://health-connect-amuhirwas-projects.vercel.app",
 ]
 
